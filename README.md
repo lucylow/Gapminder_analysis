@@ -1,2 +1,2 @@
-# Gapminder_analysis
-Analysis of how employment levels change in the United States using data obtained from obtained from the site gapminder.org.
+# Gapminder Analysis
+Analysis of employment levels changes with time  in the United States using data from gapminder.org can be found in the file Gapminder_analysis.ipynb. 
